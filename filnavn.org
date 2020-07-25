@@ -1,0 +1,14 @@
+#+TITLE: Testfil
+
+Dette er en testfil.
+
+| Tabell | Uke 15  |
+|--------+---------|
+| ja     | ~a = 5~ |
+
+* Underpunkt :ATTACH:
+:PROPERTIES:
+:ID:       7bc06dc5-5103-4353-bf60-053870fc22f0
+:END:
+
+[[attachment:mccarthy16_bithov.pdf][Lenke til vedlagt fil]] der skal den være.
